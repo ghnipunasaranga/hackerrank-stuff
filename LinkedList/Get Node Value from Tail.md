@@ -2,7 +2,7 @@
 
 Given a pointer to the head of a linked list and a specific position, determine the data value at that position. Count backwards from the tail node. 
 
-### Lagging poniter method can be used in this case
+### Lagging pointer method can be used in this case
 
     static int getNode(SinglyLinkedListNode head, int positionFromTail) {
 
